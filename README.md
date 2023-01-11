@@ -21,8 +21,9 @@ Charts Used: Bar Chart x2, Line Chart and Stacked Column Chart.
   
 <img src="msd_imgs/4top3states.png" width="720"> 
   
-<img src="msd_imgs/5top2statesdis.png" width="720"> 
-  
+<img src="msd_imgs/5top2statesdi.png" width="720"> 
+ 
+<img src="msd_imgs/6twocitiessub.png" width="720"> 
 
 
 
