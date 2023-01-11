@@ -18,9 +18,11 @@ Software Used: Microsoft Excel
 Charts Used: Bar Chart x2, Line Chart and Stacked Column Chart. 
 
 <img src="msd_imgs/3top5avg.png" width="700"> 
-  <br>
   
-<img src="msd_imgs/4top3statesc.png" width="720"> 
+<img src="msd_imgs/4top3states.png" width="720"> 
+  
+<img src="msd_imgs/5top2statesdis.png" width="720"> 
+  
 
 
 
