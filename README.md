@@ -25,6 +25,14 @@ Charts Used: Bar Chart x2, Line Chart and Stacked Column Chart.
  
 <img src="msd_imgs/6twocitiessub.png" width="720"> 
 
+  
+## Dashboard filter settings with segment consumer filter & ship mode standard class filter
+<img src="msd_imgs/2Dashboard1.png" width="600"> 
+  
+When it comes to consumers that order their items by standard class shipping, New York City drops out of the top 5 best performing cities with average sales in the state of New York. 
+However it has better profits with it’s accessories 35.64% which is more compared to Los Angeles with an accessories profit of 13.34%. 
+
+
 
 
 
