@@ -4,7 +4,7 @@
 
 ### Megastore sales interactive dashboard where you can filter segments e.g. consumer, corporate or home office. You can also filter by ship mode to view how customers got their items delivered to them. The ship mode options are first class, same day, second class and standard class.
 
-In this report the focus will on the Megastore company mainly their stores in state of New York. 
+### In this report the focus will be on the Megastore company mainly their stores in state of New York. 
 
 I will compare: 
 
