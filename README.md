@@ -40,7 +40,7 @@ Charts Used: Bar Chart x2, Line Chart and Stacked Column Chart.
 <li>Top 2 States Discount Amount in each Region.
 <li>Two Cities Sub-Category Sales/ Profits these cities were New York and Los Angeles. 
 
-New York state Megastores are performing well compared to other store in different states. One improvement I suggest is to get New York City to perform better when it comes to the top 5 average sales. Currently it’s number 5 overall but lets get this city into the top 2 when it comes to average sales in this state. We can increase the promotion of the stores in New York City; by improving Megastore’s social media presence because with New York City you will have to constantly keep the attention of the consumers here. There are many companies and independent stores that sell similar items in New York City. 
+### New York state Megastores are performing well compared to other store in different states. One improvement I suggest is to get New York City to perform better when it comes to the top 5 average sales. Currently it’s number 5 overall but lets get this city into the top 2 when it comes to average sales in this state. We can increase the promotion of the stores in New York City; by improving Megastore’s social media presence because with New York City you will have to constantly keep the attention of the consumers here. There are many companies and independent stores that sell similar items in New York City. 
 
 
 
