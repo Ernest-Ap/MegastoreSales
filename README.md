@@ -13,7 +13,7 @@ I will compare:
 <li>Top 2 States Discount Amount in each Region.
 <li>Two Cities Sub-Category Sales/ Profits these cities will be New York and Los Angeles. 
 
-Software Used: Microsoft Excel
+### Software Used: Microsoft Excel
 
 Charts Used: Bar Chart x2, Line Chart and Stacked Column Chart. 
 
