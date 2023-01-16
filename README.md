@@ -6,7 +6,7 @@
 
 ### In this report the focus will be on the Megastore company mainly their stores in state of New York. 
 
-I will compare: 
+### I will compare: 
 
 <li>The top performing average sales of the cities in New York state.  
 <li>Top 3 States Customers Purchases. 
